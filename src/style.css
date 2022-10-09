@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+    font-family: Arial;
+}
+
+body {
+    margin: 0;
+    background-color: rgb(38, 38, 39);
+}
+
+#root{
+    display: grid;
+}

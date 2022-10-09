@@ -1,0 +1,29 @@
+.main {
+    height: 100%;
+    background-image: url('./images/backgroundLogo.jpg');
+    background-repeat: no-repeat;
+    background-size: 30% 80%;
+    background-position: right center;
+}
+
+ul {
+    color: skyblue;
+    font-size: 30px;
+    width: 500px;
+}
+
+span {
+    color: rgb(172, 171, 171);
+    font-size: 20px;
+}
+
+header {
+    color: white;
+    padding-top: 40px;
+    padding-left: 50px;
+}
+
+ul {
+    line-height: 40px;
+    padding-left: 100px;
+}
